@@ -1,0 +1,10 @@
+{
+  "particles": {
+    "number": { "value": 60, "density": { "enable": true, "value_area": 900 } },
+    "color": { "value": "#4da3ff" },
+    "shape": { "type": "circle" },
+    "opacity": { "value": 0.5, "random": true },
+    "size": { "value": 4, "random": true },
+    "move": { "enable": true, "speed": 2, "direction": "none", "random": true, "straight": false, "bounce": false }
+  }
+}
